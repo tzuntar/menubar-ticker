@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		0005E3B923DE30AE002FC513 /* Music.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Music.h; sourceTree = "<group>"; };
+		27CA1A5D2BB1A1E3006F8740 /* iTunes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iTunes.h; sourceTree = "<group>"; };
 		4C51503225CB911200CCF4BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		4CC719DD157C1FD7008976AD /* Menu Bar Ticker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Menu Bar Ticker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CC719E1157C1FD7008976AD /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
@@ -90,6 +91,7 @@
 				4CC719F3157C1FD7008976AD /* AppDelegate.h */,
 				4CC719F4157C1FD7008976AD /* AppDelegate.m */,
 				0005E3B923DE30AE002FC513 /* Music.h */,
+				27CA1A5D2BB1A1E3006F8740 /* iTunes.h */,
 				4CC71A18157C398E008976AD /* Spotify.h */,
 				4CC719F6157C1FD7008976AD /* MainMenu.xib */,
 				4CC719E8157C1FD7008976AD /* Supporting Files */,
